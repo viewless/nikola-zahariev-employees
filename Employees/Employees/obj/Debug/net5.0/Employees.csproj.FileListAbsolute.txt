@@ -1,0 +1,17 @@
+E:\Developer\SirmaTask\Employees\Employees\bin\Debug\net5.0\Employees.exe
+E:\Developer\SirmaTask\Employees\Employees\bin\Debug\net5.0\Employees.deps.json
+E:\Developer\SirmaTask\Employees\Employees\bin\Debug\net5.0\Employees.runtimeconfig.json
+E:\Developer\SirmaTask\Employees\Employees\bin\Debug\net5.0\Employees.runtimeconfig.dev.json
+E:\Developer\SirmaTask\Employees\Employees\bin\Debug\net5.0\Employees.dll
+E:\Developer\SirmaTask\Employees\Employees\bin\Debug\net5.0\ref\Employees.dll
+E:\Developer\SirmaTask\Employees\Employees\bin\Debug\net5.0\Employees.pdb
+E:\Developer\SirmaTask\Employees\Employees\obj\Debug\net5.0\Employees.csproj.AssemblyReference.cache
+E:\Developer\SirmaTask\Employees\Employees\obj\Debug\net5.0\Employees.GeneratedMSBuildEditorConfig.editorconfig
+E:\Developer\SirmaTask\Employees\Employees\obj\Debug\net5.0\Employees.AssemblyInfoInputs.cache
+E:\Developer\SirmaTask\Employees\Employees\obj\Debug\net5.0\Employees.AssemblyInfo.cs
+E:\Developer\SirmaTask\Employees\Employees\obj\Debug\net5.0\Employees.csproj.CoreCompileInputs.cache
+E:\Developer\SirmaTask\Employees\Employees\obj\Debug\net5.0\Employees.dll
+E:\Developer\SirmaTask\Employees\Employees\obj\Debug\net5.0\ref\Employees.dll
+E:\Developer\SirmaTask\Employees\Employees\obj\Debug\net5.0\Employees.pdb
+E:\Developer\SirmaTask\Employees\Employees\obj\Debug\net5.0\Employees.genruntimeconfig.cache
+E:\Developer\SirmaTask\Employees\Employees\bin\Debug\net5.0\Data\EmployeesData.txt

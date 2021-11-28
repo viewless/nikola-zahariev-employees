@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Developer\\SirmaTask\\Employees\\Employees\\Employees.csproj": {}
+    "E:\\Developer\\SirmaTask\\nikola-zahariev-employees\\Employees\\Employees\\Employees.csproj": {}
   },
   "projects": {
-    "E:\\Developer\\SirmaTask\\Employees\\Employees\\Employees.csproj": {
+    "E:\\Developer\\SirmaTask\\nikola-zahariev-employees\\Employees\\Employees\\Employees.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Developer\\SirmaTask\\Employees\\Employees\\Employees.csproj",
+        "projectUniqueName": "E:\\Developer\\SirmaTask\\nikola-zahariev-employees\\Employees\\Employees\\Employees.csproj",
         "projectName": "Employees",
-        "projectPath": "E:\\Developer\\SirmaTask\\Employees\\Employees\\Employees.csproj",
+        "projectPath": "E:\\Developer\\SirmaTask\\nikola-zahariev-employees\\Employees\\Employees\\Employees.csproj",
         "packagesPath": "C:\\Users\\Viewless\\.nuget\\packages\\",
-        "outputPath": "E:\\Developer\\SirmaTask\\Employees\\Employees\\obj\\",
+        "outputPath": "E:\\Developer\\SirmaTask\\nikola-zahariev-employees\\Employees\\Employees\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Viewless\\AppData\\Roaming\\NuGet\\NuGet.Config",

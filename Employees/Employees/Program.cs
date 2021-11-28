@@ -11,7 +11,7 @@ namespace Employees
         {
             int[] employeeIdContainter = AddEmployeesWhoWorkedMostOnSameProject();
 
-            Console.WriteLine("Ids of mployees who worked longest time together on common projects are: " + String.Join(" ", employeeIdContainter));
+            Console.WriteLine("Ids of mployees who worked longest time together on common projects are: " + String.Join(" and ", employeeIdContainter));
 
         }
 
